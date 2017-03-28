@@ -1,0 +1,52 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\KDTree.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\Triangle.dll (this message is harmless)
+Loading C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.216 seconds
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daggett\Documents\GitHub\Week-Long-Development-Project\Giant Squid Programming Test\Builds\HeisenBall_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.841580 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4ce4 -> priority: 1 
+  Thread -> id: 20e4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.705338 ms
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 0.316806 ms (FindLiveObjects: 0.032702 ms CreateObjectMapping: 0.017117 ms MarkObjects: 0.147672 ms  DeleteObjects: 0.119313 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.761612 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 614.
+Total: 0.235816 ms (FindLiveObjects: 0.070003 ms CreateObjectMapping: 0.010730 ms MarkObjects: 0.148950 ms  DeleteObjects: 0.005365 ms)
+
